@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jpfeiff
+ *
+ */
+
+package ProjectEuler;
