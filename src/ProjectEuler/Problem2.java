@@ -3,7 +3,7 @@ package ProjectEuler;
 public class Problem2 {
 
     public int solution(int max){
-        int prev, total, curr, temp;
+        int prev, total, curr;
         total = 0;
         prev = 0;
         curr = 1;
